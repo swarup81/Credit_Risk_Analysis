@@ -28,17 +28,34 @@ The low-risk precision is 100% with 69% of sensitivity.
 
 * Cluster Centroid Undersampling
 
+<img width="459" alt="cluster" src="https://user-images.githubusercontent.com/100738688/176341335-be854236-47b1-4d75-a448-8aef12f0808f.png">
+
+<img width="719" alt="cluster1" src="https://user-images.githubusercontent.com/100738688/176341357-2deb0ed8-217c-408f-b3aa-50a8312ad9ee.png">
+
+
+
 The balanced accuracy score is 54%.
 The high_risk precision is about 1%, with a sensitivity of 69%.
 The low-risk precision is 100% with 40% of sensitivity.
 
 * SMOTEENN 
 
+<img width="594" alt="smoteenn1" src="https://user-images.githubusercontent.com/100738688/176341398-c0e46262-afb0-472a-a90c-c8f46bf6d67d.png">
+
+<img width="746" alt="smoteenn" src="https://user-images.githubusercontent.com/100738688/176341412-38699695-b272-4f8e-bf95-abaad542eac2.png">
+
+
+
 The balanced accuracy score is 65%.
 The high_risk precision is about 1%, with a sensitivity of 73%.
 The low-risk precision is 100% with 57% of sensitivity.
 
 * BalancedRandomForestClassifier model
+
+<img width="477" alt="random" src="https://user-images.githubusercontent.com/100738688/176341473-0115eb9b-0e9e-4792-8848-b0b45cf7692c.png">
+
+<img width="706" alt="random1" src="https://user-images.githubusercontent.com/100738688/176341489-0be4ee43-d36d-4a83-b2be-9a57d349966d.png">
+
 
 The balanced accuracy score is 78%.
 The high_risk precision is about 3%, with a sensitivity of 70%.
