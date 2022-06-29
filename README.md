@@ -9,7 +9,7 @@ This project aims to train and evaluate models with unbalanced classes.
 
 # Results: 
 
- Naive Random Oversampling
+ ## Naive Random Oversampling
 
 <img width="477" alt="random" src="https://user-images.githubusercontent.com/100738688/176341473-0115eb9b-0e9e-4792-8848-b0b45cf7692c.png">
 
@@ -20,7 +20,7 @@ This project aims to train and evaluate models with unbalanced classes.
 * The high_risk precision is about 1%, with a sensitivity of 70%.
 * The low-risk precision is 100% with 59% of sensitivity.
 
- SMOTE Oversampling
+ ## SMOTE Oversampling
 
 <img width="365" alt="smote" src="https://user-images.githubusercontent.com/100738688/176341069-fe53af4b-e9e5-41ed-9002-fea5ba3561fa.png">
 
@@ -31,7 +31,7 @@ This project aims to train and evaluate models with unbalanced classes.
 * The high_risk precision is about 1%, with a sensitivity of 63%.
 * The low-risk precision is 100% with 69% of sensitivity.
 
-Cluster Centroid Undersampling
+## Cluster Centroid Undersampling
 
 <img width="459" alt="cluster" src="https://user-images.githubusercontent.com/100738688/176341335-be854236-47b1-4d75-a448-8aef12f0808f.png">
 
@@ -43,7 +43,7 @@ Cluster Centroid Undersampling
 * The high_risk precision is about 1%, with a sensitivity of 69%.
 * The low-risk precision is 100% with 40% of sensitivity.
 
-SMOTEENN 
+## SMOTEENN 
 
 <img width="594" alt="smoteenn1" src="https://user-images.githubusercontent.com/100738688/176341398-c0e46262-afb0-472a-a90c-c8f46bf6d67d.png">
 
@@ -55,7 +55,7 @@ SMOTEENN
 * The high_risk precision is about 1%, with a sensitivity of 73%.
 * The low-risk precision is 100% with 57% of sensitivity.
 
- BalancedRandomForestClassifier model
+ ## BalancedRandomForestClassifier model
 
 <img width="371" alt="Screen Shot 2022-06-28 at 10 11 41 PM" src="https://user-images.githubusercontent.com/100738688/176342150-b615bf07-adae-436e-9dfd-268f0ce2f45a.png">
 
@@ -67,7 +67,7 @@ SMOTEENN
 * The high_risk precision is about 3%, with a sensitivity of 70%.
 * The low-risk precision is 100% with 87% of sensitivity.
 
-EasyEnsembleClassifier model
+## EasyEnsembleClassifier model
 
 <img width="388" alt="eea1" src="https://user-images.githubusercontent.com/100738688/176342233-02b365ec-04a4-48af-b267-ce5776306b13.png">
 
