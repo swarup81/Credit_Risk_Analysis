@@ -11,6 +11,11 @@ This project aims to train and evaluate models with unbalanced classes.
 
 * Naive Random Oversampling
 
+<img width="477" alt="random" src="https://user-images.githubusercontent.com/100738688/176341473-0115eb9b-0e9e-4792-8848-b0b45cf7692c.png">
+
+<img width="706" alt="random1" src="https://user-images.githubusercontent.com/100738688/176341489-0be4ee43-d36d-4a83-b2be-9a57d349966d.png">
+
+
 The balanced accuracy score is 64%.
 The high_risk precision is about 1%, with a sensitivity of 70%.
 The low-risk precision is 100% with 59% of sensitivity.
@@ -52,9 +57,7 @@ The low-risk precision is 100% with 57% of sensitivity.
 
 * BalancedRandomForestClassifier model
 
-<img width="477" alt="random" src="https://user-images.githubusercontent.com/100738688/176341473-0115eb9b-0e9e-4792-8848-b0b45cf7692c.png">
 
-<img width="706" alt="random1" src="https://user-images.githubusercontent.com/100738688/176341489-0be4ee43-d36d-4a83-b2be-9a57d349966d.png">
 
 
 The balanced accuracy score is 78%.
