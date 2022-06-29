@@ -17,6 +17,11 @@ The low-risk precision is 100% with 59% of sensitivity.
 
 * SMOTE Oversampling
 
+<img width="365" alt="smote" src="https://user-images.githubusercontent.com/100738688/176341069-fe53af4b-e9e5-41ed-9002-fea5ba3561fa.png">
+
+<img width="711" alt="smote1" src="https://user-images.githubusercontent.com/100738688/176341131-045d9b8e-4843-40e7-aea7-eafbe5e08204.png">
+
+
 The balanced accuracy score is 66%.
 The high_risk precision is about 1%, with a sensitivity of 63%.
 The low-risk precision is 100% with 69% of sensitivity.
@@ -47,5 +52,5 @@ The low-risk precision is 100% with 94% of sensitivity.
 
 # Summary:
 
-In credit risk analysis, all the models show low precision in determining high credit risk with high sensitivity.
+In credit risk analysis, all the models show low precision and high sensitivity in determining high credit risk.
 Based on the analysis, I recommend  Easy Ensemble AdaBoost Classifier model because it has a 0.93 balanced accuracy score. The balanced accuracy score of 0.93 gives us a better idea of how well the model can predict both classes.
