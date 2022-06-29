@@ -57,6 +57,9 @@ SMOTEENN
 
  BalancedRandomForestClassifier model
 
+<img width="371" alt="Screen Shot 2022-06-28 at 10 11 41 PM" src="https://user-images.githubusercontent.com/100738688/176342150-b615bf07-adae-436e-9dfd-268f0ce2f45a.png">
+
+<img width="739" alt="Screen Shot 2022-06-28 at 10 12 01 PM" src="https://user-images.githubusercontent.com/100738688/176342175-7cf0fecc-07c5-44c7-9417-ebc1512328cb.png">
 
 
 
@@ -65,6 +68,11 @@ SMOTEENN
 * The low-risk precision is 100% with 87% of sensitivity.
 
 EasyEnsembleClassifier model
+
+<img width="388" alt="eea1" src="https://user-images.githubusercontent.com/100738688/176342233-02b365ec-04a4-48af-b267-ce5776306b13.png">
+
+<img width="737" alt="eea" src="https://user-images.githubusercontent.com/100738688/176342245-de254c5d-8f47-484c-9629-9aed9b094980.png">
+
 
 * The balanced accuracy score is 93%.
 * The high_risk precision is about 9%, with a sensitivity of 92%.
